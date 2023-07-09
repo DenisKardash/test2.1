@@ -1,0 +1,63 @@
+/* obraschenie po nazvaniyu */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background-color: #282626;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    color: darkorange;
+}
+
+header {
+    color: darkorange; 
+    text-align: right;
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+    background: #282626;  
+    padding: 20px;
+}
+
+header a {
+    color:antiquewhite;
+    font-size: 14px;
+    font-style: 'Roboto';
+}
+
+header h1 {
+    color: darkorange;
+    text-align: right;
+    font-size: 26px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0px;
+}
+
+.imgDispl {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 7px;
+}
+
+.bg-do {
+    background: darkorange;
+}
+
+.card {
+    
+    border: 2px solid darkorange;
+    /* background: darkorange; */
+    color: #282626;
+    border-radius: 5px;
+    padding: 25px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.card h2 {
+    border-left: 30px solid #282626;
+    /* margin-left: 100px; */
+    padding: 20px;
+}
+
+
